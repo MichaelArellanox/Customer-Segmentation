@@ -11,5 +11,6 @@ My boss wants me to:
 ## Objective
 My goal is to divide the mall target market into approachable groups. After that I want to create subsets of a market based on demographics to better understand the target for market activities. The idea is to create clusters, label them, and then use summary statistics on said clusters.
 
-
+## Code/Analysis
+[Python Scripts](https://github.com/MichaelArellanox/Customer-Segmentation/blob/main/Project4%20(1).pdf)
 
