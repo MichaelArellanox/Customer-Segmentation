@@ -1,5 +1,8 @@
 # Mall Customer Segmentation 🛍️
 
+## Data Set[
+[Mall Customers](https://github.com/MichaelArellanox/Customer-Segmentation/blob/main/Mall_Customers.csv)
+
 ## Scenario
 My boss wants me to:
 
